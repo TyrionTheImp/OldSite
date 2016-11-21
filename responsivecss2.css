@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+body {
+	background-image: url('mmedia/background2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.wrapper {
+	width: 90%;
+	margin: 10% auto;
+}
+
+.row {
+	clear: both;
+}
+
+.column {
+	display: block;
+	float: left;
+	margin: 1% 0 1% 1.6%;
+	text-align: center;
+}
+
+.twelve {
+	width: 100%;
+	background-color: black;
+}
+
+.eleven {
+	width: 91.53%;
+	color: rgb(245, 245, 245);
+	background-color: black;
+}
+
+.ten {
+	width: 83.06%;
+}
+
+.nine {
+	width: 74.6%;
+}
+
+.eight {
+	width: 66.13%;
+	background-color: black;
+}
+
+.seven {
+	width: 57.66%;
+}
+
+.six {
+	width: 49.2%;
+}
+
+.five {
+	width: 40.73%;
+}
+
+.four {
+	width: 32.26%;
+}
+
+.three {
+	width: 23.8%;
+}
+
+.two {
+	width: 15.33%;
+}
+
+.one {
+	width: 6.866%;
+}
+
+section {
+	color: rgb(245, 245, 245);
+}
+
+img,iframe {
+	max-width: 100%;
+}
